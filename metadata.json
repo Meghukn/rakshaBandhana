@@ -1,5 +1,5 @@
-{
-  "name": "Raksha Bandhan Keepsake for Chetta",
+a{
+  "name": "Raksha Bandhana",
   "description": "A vintage digital Raksha Bandhan keepsake letter and surprise experience for brother.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
